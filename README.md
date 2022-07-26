@@ -6,5 +6,5 @@ The modifications occured for the text below by means of incrementig numbers of 
 
 1 - first change in the main repository
 
-2- change in branch_1 
+2- change pushed to repository on branch_1 
 
